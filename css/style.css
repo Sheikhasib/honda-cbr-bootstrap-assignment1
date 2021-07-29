@@ -1,0 +1,30 @@
+/* Body Font */
+.body {
+  font-family: "Poppins", sans-serif;
+}
+/* Header Model */
+.honda-bg-info {
+  background-color: #264653;
+}
+.purchase-btn {
+  background-color: #e76f51;
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
+/* Featured Bike */
+.gray {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+/* Client Review and FAQ */
+.client-text,
+.faq {
+  color: #e76f51;
+}
+/* Font Awesome */
+.fas,
+.far {
+  color: yellow;
+}
